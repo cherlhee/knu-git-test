@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git-test-folder\\ch3\\example_3-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B513C0E0-3677-4CD7-8D44-7331D7CE613C}|example_3-1\\example_3-1.vcxproj|E:\\git-test-folder\\ch3\\example_3-1\\example_3-1\\ex3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B513C0E0-3677-4CD7-8D44-7331D7CE613C}|example_3-1\\example_3-1.vcxproj|solutionrelative:example_3-1\\ex3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex3-1.cpp",
+              "DocumentMoniker": "E:\\git-test-folder\\ch3\\example_3-1\\example_3-1\\ex3-1.cpp",
+              "RelativeDocumentMoniker": "example_3-1\\ex3-1.cpp",
+              "ToolTip": "E:\\git-test-folder\\ch3\\example_3-1\\example_3-1\\ex3-1.cpp",
+              "RelativeToolTip": "example_3-1\\ex3-1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T05:42:20.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
