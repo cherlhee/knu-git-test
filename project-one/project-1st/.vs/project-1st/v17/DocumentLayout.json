@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lecture\\knu\\git\\project-one\\project-1st\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4F0D17-F9F1-4BEA-B7C1-4614886FEA61}|fstream\\fstream.vcxproj|D:\\lecture\\knu\\git\\project-one\\project-1st\\fstream\\save_csv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF4F0D17-F9F1-4BEA-B7C1-4614886FEA61}|fstream\\fstream.vcxproj|solutionrelative:fstream\\save_csv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4F0D17-F9F1-4BEA-B7C1-4614886FEA61}|fstream\\fstream.vcxproj|D:\\lecture\\knu\\git\\project-one\\project-1st\\fstream\\keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF4F0D17-F9F1-4BEA-B7C1-4614886FEA61}|fstream\\fstream.vcxproj|solutionrelative:fstream\\keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4F0D17-F9F1-4BEA-B7C1-4614886FEA61}|fstream\\fstream.vcxproj|D:\\lecture\\knu\\git\\project-one\\project-1st\\fstream\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF4F0D17-F9F1-4BEA-B7C1-4614886FEA61}|fstream\\fstream.vcxproj|solutionrelative:fstream\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30AF358-9E3F-452E-BD39-45C9A73A34D7}|project-dB\\project-dB.vcxproj|D:\\lecture\\knu\\git\\project-one\\project-1st\\project-dB\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E30AF358-9E3F-452E-BD39-45C9A73A34D7}|project-dB\\project-dB.vcxproj|solutionrelative:project-dB\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C363E-AD2E-4E38-9229-D1B2FB9AE8BE}|Project-2nd\\Project-2nd.vcxproj|D:\\lecture\\knu\\git\\project-one\\project-1st\\Project-2nd\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{270C363E-AD2E-4E38-9229-D1B2FB9AE8BE}|Project-2nd\\Project-2nd.vcxproj|solutionrelative:Project-2nd\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC0130B-6456-4F27-9C8E-3742A8650B67}|project-1st\\project-1st.vcxproj|D:\\lecture\\knu\\git\\project-one\\project-1st\\project-1st\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BC0130B-6456-4F27-9C8E-3742A8650B67}|project-1st\\project-1st.vcxproj|solutionrelative:project-1st\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "save_csv.cpp",
+              "DocumentMoniker": "D:\\lecture\\knu\\git\\project-one\\project-1st\\fstream\\save_csv.cpp",
+              "RelativeDocumentMoniker": "fstream\\save_csv.cpp",
+              "ToolTip": "D:\\lecture\\knu\\git\\project-one\\project-1st\\fstream\\save_csv.cpp",
+              "RelativeToolTip": "fstream\\save_csv.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T00:42:53.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\lecture\\knu\\git\\project-one\\project-1st\\fstream\\main.cpp",
+              "RelativeDocumentMoniker": "fstream\\main.cpp",
+              "ToolTip": "D:\\lecture\\knu\\git\\project-one\\project-1st\\fstream\\main.cpp",
+              "RelativeToolTip": "fstream\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T00:17:50.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "keyboard.cpp",
+              "DocumentMoniker": "D:\\lecture\\knu\\git\\project-one\\project-1st\\fstream\\keyboard.cpp",
+              "RelativeDocumentMoniker": "fstream\\keyboard.cpp",
+              "ToolTip": "D:\\lecture\\knu\\git\\project-one\\project-1st\\fstream\\keyboard.cpp",
+              "RelativeToolTip": "fstream\\keyboard.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T23:59:19.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\lecture\\knu\\git\\project-one\\project-1st\\project-dB\\main.cpp",
+              "RelativeDocumentMoniker": "project-dB\\main.cpp",
+              "ToolTip": "D:\\lecture\\knu\\git\\project-one\\project-1st\\project-dB\\main.cpp",
+              "RelativeToolTip": "project-dB\\main.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T09:30:42.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\lecture\\knu\\git\\project-one\\project-1st\\project-1st\\main.cpp",
+              "RelativeDocumentMoniker": "project-1st\\main.cpp",
+              "ToolTip": "D:\\lecture\\knu\\git\\project-one\\project-1st\\project-1st\\main.cpp",
+              "RelativeToolTip": "project-1st\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T05:23:19.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\lecture\\knu\\git\\project-one\\project-1st\\Project-2nd\\main.cpp",
+              "RelativeDocumentMoniker": "Project-2nd\\main.cpp",
+              "ToolTip": "D:\\lecture\\knu\\git\\project-one\\project-1st\\Project-2nd\\main.cpp",
+              "RelativeToolTip": "Project-2nd\\main.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T18:20:05.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
